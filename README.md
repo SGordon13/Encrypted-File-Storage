@@ -1,9 +1,9 @@
-Encrypted-File-Storage
+Encrypted-File-Storage <br>
 Scott Gordon
 
 This program was developed as the course project for COMP 5610.
 
-STRUCTURE:
+STRUCTURE: <br>
 A standard text file is encrypted using AES 128-bit encryption.<br>
 The encrypted file is then sent via socket communication to the server.<br>
 The server stores the encrypted file.<br>
