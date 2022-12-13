@@ -54,4 +54,4 @@ RUNNING INSTRUCTIONS:  <br>
 The rsa demo is unrelated due to difficulties implementing, but to run you use this command: <br>
 &emsp;./rsaDemo/rsaDemo  <br>
 &emsp;&emsp;You may adjust the message directly in the code.  <br>
-&emsp;&emsp;The message must be at max 3 characters to function correclty due to its implementation.  <br>
+&emsp;&emsp;The message must be at max 3 characters to function correctly due to its implementation.  <br>
