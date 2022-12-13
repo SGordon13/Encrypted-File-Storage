@@ -28,25 +28,25 @@ COMPILATION INSTRUCTIONS:
 -any files you wish to encrypt or store should be in the folder './data/client/'.<br>
 -run these commands to cmopile each of the source code files:<br>
 &emsp;g++ client.cpp -o ./client  <br>
-&ensp;g++ server.cpp -o ./server  <br>
-&ensp;g++ ./aes/encrypt.cpp -o ./aes/encrypt  <br>
-&ensp;g++ ./aes/decrypt.cpp -o ./aes/decrypt  <br>
-&ensp;g++ ./rsaDemo/rsaDemo.cpp -o ./rsaDemo/rsaDemo  <br>
+&emsp;g++ server.cpp -o ./server  <br>
+&emsp;g++ ./aes/encrypt.cpp -o ./aes/encrypt  <br>
+&emsp;g++ ./aes/decrypt.cpp -o ./aes/decrypt  <br>
+&emsp;g++ ./rsaDemo/rsaDemo.cpp -o ./rsaDemo/rsaDemo  <br>
   
 RUNNING INSTRUCTIONS:  <br>
 -run these commands and follow given instructions to run the program  <br>
 -when prompted for file names, it is assumed the file is in './data/client/'.  <br>
 -you must run the server before you run the client  <br>
-    on client terminal: ./aes/encrypt  <br>
-        enter the name of the file you wish to encrypt.  <br>
-        resulting filename will have 'ENC' prepended.  <br>
-    on server terminal: ./server  <br>
-    on client terminal: ./client  <br>
-        choose to upload file, then enter file name of the encrypted file.  <br>
-    you may delete the file form the client folder.  <br>
-        on server terminal: ./server  <br>
-    on client terminal: ./client  <br>
-        choose to download file, then enter file name of the encrypted file.  <br>
-    on client terminal: ./aes/decrypt  <br>
-        enter the name of the encrypted file to decrypt.  <br>
-        resulting filename will remove the 'ENC' prepend.  <br>
+&emsp;on client terminal: ./aes/encrypt  <br>
+&emsp;&emsp;enter the name of the file you wish to encrypt.  <br>
+&emsp;&emsp;resulting filename will have 'ENC' prepended.  <br>
+&emsp;on server terminal: ./server  <br>
+&emsp;on client terminal: ./client  <br>
+&emsp;&emsp;choose to upload file, then enter file name of the encrypted file.  <br>
+&emsp;you may delete the file form the client folder.  <br>
+&emsp;&emsp;on server terminal: ./server  <br>
+&emsp;on client terminal: ./client  <br>
+&emsp;&emsp;choose to download file, then enter file name of the encrypted file.  <br>
+&emsp;on client terminal: ./aes/decrypt  <br>
+&emsp;&emsp;enter the name of the encrypted file to decrypt.  <br>
+&emsp;&emsp;resulting filename will remove the 'ENC' prepend.  <br>
