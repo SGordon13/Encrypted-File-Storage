@@ -27,7 +27,7 @@ COMPILATION INSTRUCTIONS:
 -open a second terminal to the same location to serve as the server.<br>
 -any files you wish to encrypt or store should be in the folder './data/client/'.<br>
 -run these commands to cmopile each of the source code files:<br>
-&ensp;g++ client.cpp -o ./client  <br>
+&emsp;g++ client.cpp -o ./client  <br>
 &ensp;g++ server.cpp -o ./server  <br>
 &ensp;g++ ./aes/encrypt.cpp -o ./aes/encrypt  <br>
 &ensp;g++ ./aes/decrypt.cpp -o ./aes/decrypt  <br>
