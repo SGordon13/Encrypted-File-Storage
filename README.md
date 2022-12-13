@@ -21,7 +21,7 @@ We still believe the effort we put into the RSA demo was worth submitting as
 its own example.<br>
 
 
-COMPILATION INSTRUCTIONS:
+COMPILATION INSTRUCTIONS: <br>
 -copy the entire directory onto your local machine<br>
 -open terminal and change the directory to the folder containing the source code<br>
 -open a second terminal to the same location to serve as the server.<br>
