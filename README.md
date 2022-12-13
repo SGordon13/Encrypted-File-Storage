@@ -50,3 +50,6 @@ RUNNING INSTRUCTIONS:  <br>
 &emsp;on client terminal: ./aes/decrypt  <br>
 &emsp;&emsp;enter the name of the encrypted file to decrypt.  <br>
 &emsp;&emsp;resulting filename will remove the 'ENC' prepend.  <br>
+
+The rsa demo is unrelated due to difficulties implementing, but to run you use this command: <br>
+&emsp;./rsaDemo/rsaDemo
